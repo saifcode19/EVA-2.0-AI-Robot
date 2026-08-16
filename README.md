@@ -129,7 +129,21 @@ This project focuses on practical implementation of:
 
 ## Project Photos
 
-Photos of the physical robot, electronics, internal wiring, hardware assembly, testing, and development process will be added here.
+### EVA 2.0 — Final Prototype
+
+![EVA 2.0 Front](docs/images/eva_face01.jpg)
+
+### Internal Electronics
+
+![EVA 2.0 Electronics](docs/images/eva_circuit01.jpg)
+
+### Hardware Assembly
+
+![EVA 2.0 Internal Wiring](docs/images/eva_eyes_mechanism01.jpg)
+
+### Testing
+
+![EVA 2.0 Testing](docs/images/eva_sideL1.jpg)
 
 <!-- Add project images below -->
 
