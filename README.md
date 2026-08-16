@@ -131,7 +131,7 @@ This project focuses on practical implementation of:
 
 ### EVA 2.0 — Final Prototype
 
-![EVA 2.0 Front](docs/images/eva_face01.jpg)
+![EVA 2.0 Front](docs/images/eva_face1.jpg)
 
 ### Internal Electronics
 
