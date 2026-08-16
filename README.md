@@ -149,9 +149,13 @@ This project focuses on practical implementation of:
 
 ## Demo
 
-A demonstration video showing EVA 2.0's voice interaction, display feedback, servo movement, and hardware functionality will be added here.
+A demonstration of EVA 2.0's AI voice interaction, display feedback, audio system, and hardware functionality.
 
-<!-- Add demo video or GIF here -->
+▶️ **Watch the EVA 2.0 demonstration on YouTube:**
+
+[![EVA 2.0 – AI Voice Assistant Robot](docs/images/eva_face01.jpg)](https://www.youtube.com/watch?v=ABC123)
+
+**YouTube:** [EVA 2.0 – AI Voice Assistant Robot](https://www.youtube.com/watch?v=ABC123)
 
 ---
 
