@@ -145,8 +145,6 @@ This project focuses on practical implementation of:
 
 ![EVA 2.0 Testing](docs/images/eva_sideL1.jpg)
 
-<!-- Add project images below -->
-
 ---
 
 ## Demo
