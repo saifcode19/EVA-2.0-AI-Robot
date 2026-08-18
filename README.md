@@ -184,6 +184,13 @@ Current development areas include:
 - Audio optimization
 - Further peripheral integration
 
+
+---
+
+## Related Links
+
+- [GitHub Profile](https://github.com/saifcode19)
+- [EVA 2.0 Demo](YOUR_YOUTUBE_VIDEO_LINK)
 ---
 
 ## Engineering Highlights
